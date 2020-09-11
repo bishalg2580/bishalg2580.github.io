@@ -1,0 +1,69 @@
+img{
+    flex-basis: 70%;
+    display:inline-block;
+   text-align:center;
+   padding-left:4.5rem;
+}
+.leftheader {
+flex-basis:40%;
+text-align:center;
+padding-right:0.5rem;
+color:red;
+border-radius:150%;
+}
+h2{
+    background-color:gold;
+    font-style:italic;
+    font-size:5rem;
+    margin:0;
+}
+ul{
+
+    color:blue;
+    display:flex;
+   justify-content:space-around;
+   font-size:1.2rem;
+   font-weight:bold;
+   text-decoration:none;
+   padding:5rem;
+   
+}
+li{
+    margin-top:-6rem;
+    margin-left:10rem;
+    padding-left:3rem
+}
+ li:hover{
+     background-color:red;
+     display:inline-box;
+     width:10%;
+ }
+h1{
+    color:rgb(75, 16, 16);
+    font-style:italic;
+    text-align:center;
+    border:1rem solid goldenrod;
+    background-color:silver;
+}
+
+.soumo{
+    margin-top:-9rem;
+    color:gold;
+    text-align:center;
+    border:0.5rem solid silver;
+    padding-top:2rem;
+    width:20%;
+    margin-left:50rem;
+    padding-right:5rem;
+}
+.bishal p:
+{
+    margin:-5rem;
+    font-size:2rem;
+    text-decoration:none;
+    border:1rem solid red color;
+    display:inline-block;
+}
+ol{
+color:red;
+}
